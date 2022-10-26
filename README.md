@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **riteshgadre9@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I still watch Ninja Hathodi**
 
 
 <h3 align="left">Connect with me on Coding Platforms:</h3
