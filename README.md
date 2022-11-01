@@ -35,8 +35,19 @@
 <a href="https://instagram.com/evil_coder1002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evil_coder1002" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshgadre&show_icons=true&locale=en&layout=compact" alt="riteshgadre" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshgadre&show_icons=true&locale=en&layout=compact" alt="riteshgadre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshgadre&show_icons=true&locale=en" alt="riteshgadre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshgadre&" alt="riteshgadre" /></p>
+ -->
+ 
+ <p align="center">
+<table>
+<tr>
+<td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=RiteshGadre&show_icons=true&theme=aura"/>
+<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGadre&theme=aura&hide=CSS,HTML&langs_count=3"/>
+</tr>
+</table>
+<a href="http://www.github.com/RiteshGadre"><img src="https://activity-graph.herokuapp.com/graph?username=RiteshGadre&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
