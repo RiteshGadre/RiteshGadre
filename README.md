@@ -46,7 +46,7 @@
 <table>
 <tr>
 <td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=RiteshGadre&show_icons=true&theme=aura"/>
-<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGadre&theme=aura&HTML&langs_count=3"/>
+<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshGadre&theme=aura&HTML&langs_count=4"/>
 </tr>
 </table>
 <a href="http://www.github.com/RiteshGadre"><img src="https://activity-graph.herokuapp.com/graph?username=RiteshGadre&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
